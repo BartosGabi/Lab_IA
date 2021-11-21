@@ -1,0 +1,70 @@
+<style>
+body{background-color:whitesmoke;}
+h1{
+  color:darkgray;
+  font-family: verdana;
+  font-size: 150%;
+  div 
+  width: 300px;
+  border: 10px solid dimgray;
+  padding: 10px;
+  margin: 20px;
+  background-color:gray;
+  text-align: right;
+}
+ #email {
+  color:#003049;
+font-family: courier;
+  font-size: 100%;
+  text-align: right;
+  text-decoration: underline;
+}
+#titlu1{
+  color:darkgray;
+  text-align: right;
+text-decoration: underline;
+}
+table, th, td {
+   border: 1px solid black;
+  border-style: double;
+  table-layout: right;
+   
+}
+#titlu2{
+  color:darkgray;
+  text-align: center;
+text-decoration: underline;
+}
+ #titlu3 {color:darkgray;
+  text-align: right;
+text-decoration: underline;
+}
+#lista {
+  text-align: center;
+   list-style-type: square;
+} 
+#titlu4 {
+  color:darkgray;
+  text-align: right;
+text-decoration: underline;
+}
+#hei{
+  border-radius: 8px;
+opacity: 0.8;
+witdh="250";
+ height="350"
+}
+div{ background-color:gray;
+  width: 300px;
+  border: 10px solid dimgrey;
+  padding: 30px;
+  margin: 10px;
+  align="right;
+}
+ #imagini{
+  border-radius: 8px;
+opacity: 0.8;
+witdh="250";
+ height="350"
+}
+</style>
